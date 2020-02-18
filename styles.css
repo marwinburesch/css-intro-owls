@@ -6,10 +6,14 @@
 
 body {
   background-color: rgb(25, 33, 44);
-  color: rgb(255, 240, 28);
+  color: #fff;
   font-family: "Roboto Mono", monospace;
   margin: 0;
   padding: 40px;
   width: 100vw;
   height: 100vh;
+}
+
+.owl-image {
+  width: 450px;
 }
