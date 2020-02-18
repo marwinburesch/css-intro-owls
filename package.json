@@ -1,0 +1,23 @@
+{
+  "name": "css-intro-owls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwinburesch/css-intro-owls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwinburesch/css-intro-owls/issues"
+  },
+  "homepage": "https://github.com/marwinburesch/css-intro-owls#readme",
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^0.11.0"
+  }
+}
